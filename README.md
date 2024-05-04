@@ -1,6 +1,6 @@
 ### Opa, Meu nome e João Pedro 👋
 
-- 🔭 Estou trabalhando em mim mesmo no momento.
+- 🔭 Em busca do meu primeiro emprego na área
 - 🌱 Estou estudando: React 
 - 📫 Contato: joaopedro.pmwto@gmail.com
 - 😄 Pronomes: ele/dele
