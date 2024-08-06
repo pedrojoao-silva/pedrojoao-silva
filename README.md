@@ -1,7 +1,7 @@
 ### Opa, Meu nome e João Pedro 👋
 
 - 🔭 Em busca do meu primeiro emprego na área
-- 🌱 Estou estudando: C#
+- 🌱 Estou estudando: HTML E CSS
 - 📫 Contato: joaopedro.pmwto@gmail.com
 - 😄 Pronomes: ele/dele
 
